@@ -1,5 +1,6 @@
 from matplotlib.patches import Circle, Rectangle, Arc
-
+#In this program I used the bulk of another users program and modified the grantland_shotchart function so that it would work for playoff
+#comparisons by changing the computation of it and the bin sizes so the visualization would work
 import matplotlib.pyplot as plt
 
 import numpy as np
